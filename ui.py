@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 from pathlib import Path
 
-st.title("📱 Mobile Price Range Predictors")
+st.title("📱 Mobile Price Range Predictor v2")
 
 # -----------------------------
 # Load Model + Feature Order
