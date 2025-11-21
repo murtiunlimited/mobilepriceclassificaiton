@@ -21,6 +21,7 @@ See example code and usage in the main files.
 
 - Python (recommended 3.x)
 - Common ML libraries (e.g., scikit-learn, pandas, etc.)
+pip3 install -r requirements
 
 ## Usage
 
