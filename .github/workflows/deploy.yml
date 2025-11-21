@@ -32,7 +32,7 @@ jobs:
         username: ${{ secrets.EC2_USER }}
         key: ${{ secrets.EC2_KEY }}
         source: deploy.sh
-        target: ~/deploy.sh
+        target: ~/
 
     - name: Execute deploy script on EC2
       uses: appleboy/ssh-action@v0.1.10
