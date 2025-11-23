@@ -1,7 +1,9 @@
 # Mobile Price Classification
 
 This project is for classifying mobile phone prices using machine learning.
+In terms of CICD, the workflow only follows CD; Continuous Deployment.
 
+There is no Continuous integration because no test cases are added
 ## Features
 
 - Uses data about mobile phones to predict price categories.
